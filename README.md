@@ -98,12 +98,11 @@ While Logistic Regression provided competitive performance and greater interpret
 
 ## Project Structure
 Cardio-Disease-Prediction/
-│
-├── notebook.ipynb
-├── final_experiment_results.csv
-├── report.pdf
-├── README.md
-└── dataset/
+ │
+ ├── notebook.ipynb
+ ├── report.pdf
+ ├── README.md
+ └── dataset/cardio_train.csv.zip
 
 ---
 
